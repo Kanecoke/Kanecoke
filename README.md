@@ -16,7 +16,7 @@ I have a passion for using data to drive business decisions and i'm always looki
 
 #### :file_folder: ShowCase 
 
-Click [HERE](https://www.novypro.com/project/ecommerce-sales-dashboard-15) to access my portfolio demonstrating my work
+Click [HERE](https://www.novypro.com/profile_projects/kcoke) to access my portfolio demonstrating my work
 
 #### :wrench: Tools
 
